@@ -3,5 +3,4 @@
 # Made in Batch, Python
 # Called WaveOS
 
-# You need to install python! And run these commands in the command line:
-    pip install requests
+# You need to install python!
